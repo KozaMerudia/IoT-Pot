@@ -1,5 +1,22 @@
 Arduino [Uno]
+
+  Sensors:
 Temperature-humidity sensor [DHT11]
 Resistor [330 Om]
 Potentiometer [10k Om]
 LCD display [16x2]
+
+Soil Moisture sensor [analog sensor]
+Jumpers []             X2
+
+Water Level Sensor [analog sensor]
+LED [5mm, Diffuse]     x2
+Resistor [330 Om]      x2
+
+  WITHOUT CODE YET:
+Water Pump [DC 5 V - DC 12 V]
+WayinTop Relay Module [1 ch, DC 5V]
+Power cable with jack [9V AC-DC adapter]
+Communication cable [USB-A-B cable]
+Jumpers []             X2
+
