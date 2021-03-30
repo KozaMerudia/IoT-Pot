@@ -1,4 +1,4 @@
-#define sensorPower 7
+#define sensorPower 10
 #define sensorPin A1
 
 int water_val = 0;
